@@ -8,7 +8,7 @@ int main()
     scanf("%d %d", &a, &b);
     printf("Enter the operator(+, -, *, /):\n");
     char operator;
-    scanf(" %c", &operator);
+    scanf("%c", &operator);
    
     if (operator == '+')
     {
